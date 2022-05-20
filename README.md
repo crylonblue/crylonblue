@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey 👋
+
+- I mostly work with `javascript` and `python` language ecosystems.
+
+
+[![Till's GitHub stats](https://github-readme-stats.vercel.app/api?username=crylonblue&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/crylonblue/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crylonblue&hide=dart,hcl,objective-c,java,dockerfile,swift,kotlin,html,shell)](https://github.com/crylonblue/)
 
 <!--
 **crylonblue/crylonblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
