@@ -1,3 +1,3 @@
 ### Hey 👋
 
-- I mostly work with `javascript` and `python` language ecosystems.
+I mostly work with `javascript` and `python` language ecosystems.
